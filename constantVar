@@ -1,0 +1,25 @@
+{
+"arrayLen" : 1000,
+"nVal" : 1000000,
+"obsTime" : 1,
+"particleVar" : {
+    "chargeElem" : -1,
+    "mass" : 9.1093837,
+    "iVelocity" : 2000,
+    "unitVectors" : {
+        "i" : 5,
+        "j" : 1,
+        "k" : 4 
+    }
+},
+"chargeField" : {
+        "cType" : 0,
+        "bTesla" : 0.00001,
+        "unitVectors" : {
+            "i" : 2.5,
+            "j" : 2.5,
+            "k" : 2.5
+        }
+        
+}
+}
